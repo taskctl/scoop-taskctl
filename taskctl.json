@@ -1,0 +1,20 @@
+{
+    "version": "0.6.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/taskctl/taskctl/releases/download/0.6.4/taskctl_0.6.4_windows_386.tar.gz",
+            "bin": [
+                "taskctl.exe"
+            ],
+            "hash": "f5cc890261103d0e4cdb926991040801b6ef96c7ca8f74e77654322ba2ed89b1"
+        },
+        "64bit": {
+            "url": "https://github.com/taskctl/taskctl/releases/download/0.6.4/taskctl_0.6.4_windows_amd64.tar.gz",
+            "bin": [
+                "taskctl.exe"
+            ],
+            "hash": "2045d90bab1922eca7a2e99a011bdc96799b85060be825d5a31f29290797d1a6"
+        }
+    },
+    "homepage": "https://github.com/taskctl/taskctl"
+}
