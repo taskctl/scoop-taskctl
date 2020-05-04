@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0-alpha-2",
+    "version": "1.1.0-alpha-4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/taskctl/taskctl/releases/download/1.0.0-alpha-2/taskctl_1.0.0-alpha-2_windows_386.zip",
+            "url": "https://github.com/taskctl/taskctl/releases/download/1.1.0-alpha-4/taskctl_1.1.0-alpha-4_windows_386.zip",
             "bin": [
                 "taskctl.exe"
             ],
-            "hash": "7b5668acc15a447ca38e1f43d7bfe4898728861837742186945fe591943b7a53"
+            "hash": "c5f86101c93e83c9fa002f8cafeed532b782cc017f20d54808cf29cd66ae58db"
         },
         "64bit": {
-            "url": "https://github.com/taskctl/taskctl/releases/download/1.0.0-alpha-2/taskctl_1.0.0-alpha-2_windows_amd64.zip",
+            "url": "https://github.com/taskctl/taskctl/releases/download/1.1.0-alpha-4/taskctl_1.1.0-alpha-4_windows_amd64.zip",
             "bin": [
                 "taskctl.exe"
             ],
-            "hash": "9a17daeca63d722262ac6d17e9f5a84189bd7317e01bfe040629aa3e61159a20"
+            "hash": "04b235965a6adecb8802f8836e028ddb3b6ec12759b22a1b4db327fe3d452cb4"
         }
     },
     "homepage": "https://github.com/taskctl/taskctl"
