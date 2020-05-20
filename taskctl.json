@@ -6,14 +6,14 @@
             "bin": [
                 "taskctl.exe"
             ],
-            "hash": "d2d5deae2e1f4808278aab0da83c906ea882a4cbde6b42f9ed42af02d0ac08ed"
+            "hash": "b3cb9d3984d5c65fbe5b843e76224038765d680479a254e705fd172a407f0738"
         },
         "64bit": {
             "url": "https://github.com/taskctl/taskctl/releases/download/1.0.3/taskctl_1.0.3_windows_amd64.zip",
             "bin": [
                 "taskctl.exe"
             ],
-            "hash": "2ad1fd73b01bd05caf3f189a33c495bf5a42964ee6e52b4ac42f72612cf4a5bc"
+            "hash": "060fb5895d8170c44b291526754177963d298f9207cc5c38d51dc9123ccfa23a"
         }
     },
     "homepage": "https://github.com/taskctl/taskctl"
